@@ -1,0 +1,5 @@
+2014-11-14 15:05:09[ClassName:com.kiiik.starter.StoreStarter;Function:Start]:服务器正在启动中.
+2014-11-14 15:05:09[ClassName:com.kiiik.starter.StoreServer;Function:<init>]:开始加载服务器启动类.
+2014-11-14 15:05:09[ClassName:com.kiiik.starter.StoreServer;Function:loadModules]:加载模块.
+2014-11-14 15:05:09[ClassName:com.kiiik.starter.StoreServer;Function:startModules]:启动模块中.
+2014-11-14 15:05:09[ClassName:com.kiiik.modules.ClientConnection;Function:startListeners]:服务器已经启动.
